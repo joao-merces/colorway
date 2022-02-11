@@ -1,0 +1,148 @@
+# Portuguese translation.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# João Victor Ramos Mercês, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-02 22:30-0300\n"
+"PO-Revision-Date: 2022-02-03 00:05+0100\n"
+"Last-Translator: João Victor Ramos Mercês\n"
+"Language-Team: \n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/io.github.lainsce.Colorway.desktop.in:3
+#: data/io.github.lainsce.Colorway.appdata.xml.in:6 src/window.vala:570
+msgid "Colorway"
+msgstr "Colorway"
+
+#: data/io.github.lainsce.Colorway.desktop.in:6
+msgid "color;palette;library;hue;swatch;"
+msgstr "cor;paleta;biblioteca;tonalidade;mostra;"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:7
+msgid "Generate color pairings"
+msgstr "Gerar combinação de cores"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:9
+msgid ""
+"Generate color pairings from selected color that follow certain color rules."
+msgstr ""
+"Gerar pares de cores a partir de uma cor selecionada que segue uma certa regra de cores"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:18
+msgid "Lains"
+msgstr "Lains"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:44
+msgid "Release: Recoloring With Accent"
+msgstr "Versão: Recolorindo com acento"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:45
+msgid "Changed: The UI now uses libadwaita recoloring."
+msgstr ""
+"Trocado: A interface agora usa a recoloração libadwaita."
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:46
+msgid "Changed: New UI layout."
+msgstr "Trocado: Nova interface de usuário."
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:51
+msgid "Release: Color Choosing with a Drag"
+msgstr "Versão: Arraste para escolher uma cor"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:52
+msgid ""
+"Added: The color chooser box's pointer can now be dragged to choose the "
+"color as well, no more clicking random spots."
+msgstr ""
+"Adicionado: O ponteiro do seletor de cores pode ser arrastado para escolher uma "
+"cor assim como, clicar em um ponto aleatório."
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:53
+msgid ""
+"Changed: Most icons now above color content are aware of contrast and will "
+"update accordingly as white or black colored to ensure contrast."
+msgstr ""
+"Trocado: A maioria dos ícones acima do conteúdo de cores está ciente do contraste e será atualizado"
+"de acordo com a cor branca e preta para garantir o contraste"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:58
+msgid "Release: Copiable Colors"
+msgstr "Versão: Cores copiáveis"
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:59
+msgid ""
+"Added: Now the color boxes are now buttons which you can copy the individual "
+"color."
+msgstr ""
+"Adicionado: Agora as caixas de cores são botões no qual você pode copiar individualmente. "
+
+#: data/io.github.lainsce.Colorway.appdata.xml.in:64
+msgid "Release: First Release"
+msgstr "Versão: Primeira Versão"
+
+#: data/ui/keys.ui:12
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Geral"
+
+#: data/ui/keys.ui:16
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Sair"
+
+#: data/ui/menu.ui:7
+msgid "Export Colors as Image…"
+msgstr "Exportar cores como imagem…"
+
+#: data/ui/menu.ui:13
+msgid "Keyboard Shortcuts"
+msgstr "Atalhos de teclado"
+
+#: data/ui/menu.ui:17
+msgid "About Colorway"
+msgstr "Sobre cor"
+
+#: data/ui/window.ui:99
+msgid "Pick Color"
+msgstr "Escolher cor"
+
+#: src/window.vala:101
+msgid "Analogous"
+msgstr "Análogo"
+
+#: src/window.vala:102
+msgid "Complementary"
+msgstr "Complementario"
+
+#: src/window.vala:103
+msgid "Triadic"
+msgstr "Triádico"
+
+#: src/window.vala:104
+msgid "Tetradic"
+msgstr "Tetrádico"
+
+#: src/window.vala:105
+msgid "Monochromatic"
+msgstr "Monocromático"
+
+#: src/window.vala:541
+msgid "Colors exported to clipboard."
+msgstr "Cores exportadas para a prancheta."
+
+#: src/window.vala:575
+msgid "Generate color pairings."
+msgstr "Gerar combinação de cores."
+
+#: src/window.vala:581
+msgid "translator-credits"
+msgstr "João Victor Ramos Mercês"
