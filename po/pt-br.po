@@ -25,7 +25,7 @@ msgstr "Colorway"
 
 #: data/io.github.lainsce.Colorway.desktop.in:6
 msgid "color;palette;library;hue;swatch;"
-msgstr "cor;paleta;biblioteca;tonalidade;mostra;"
+msgstr "cor;paleta;biblioteca;tonalidade;amostra;"
 
 #: data/io.github.lainsce.Colorway.appdata.xml.in:7
 msgid "Generate color pairings"
@@ -35,7 +35,7 @@ msgstr "Gerar combinação de cores"
 msgid ""
 "Generate color pairings from selected color that follow certain color rules."
 msgstr ""
-"Gerar pares de cores a partir de uma cor selecionada que segue uma certa regra de cores"
+"Gerar combinação de cores a partir de uma cor selecionada que segue uma regra de cores"
 
 #: data/io.github.lainsce.Colorway.appdata.xml.in:18
 msgid "Lains"
@@ -63,7 +63,7 @@ msgid ""
 "Added: The color chooser box's pointer can now be dragged to choose the "
 "color as well, no more clicking random spots."
 msgstr ""
-"Adicionado: O ponteiro do seletor de cores pode ser arrastado para escolher uma "
+"Adicionado: O seletor de cores pode ser arrastado para escolher uma "
 "cor assim como, clicar em um ponto aleatório."
 
 #: data/io.github.lainsce.Colorway.appdata.xml.in:53
@@ -109,11 +109,11 @@ msgstr "Atalhos de teclado"
 
 #: data/ui/menu.ui:17
 msgid "About Colorway"
-msgstr "Sobre cor"
+msgstr "Sobre Colorway"
 
 #: data/ui/window.ui:99
 msgid "Pick Color"
-msgstr "Escolher cor"
+msgstr "Escolha uma cor"
 
 #: src/window.vala:101
 msgid "Analogous"
